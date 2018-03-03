@@ -2,11 +2,6 @@
 CS6375.004: Machine Learning
 Project: DengAI: Predicting Disease Spread
 
-Team Members : Nandish Muniswamappa (nxm160630)
-               Bhargav Lenka (bxl171030)
-               Madhupriya Pal (mxp162030)
-               Masoud Shahshahani (mxs161831)
-
 File name: ANN_Keras.py
 Input argument format : <Training Data set> <Test Data set>
 
