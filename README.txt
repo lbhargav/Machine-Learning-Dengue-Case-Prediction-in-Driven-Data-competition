@@ -37,4 +37,3 @@ Script name: ANN_Keras.py
 Input argument format : <Training Data set> <Test Data set>
 
 This code contains python code for Artificial Neural Network using Keras.
-This code is available in seperate folder 
